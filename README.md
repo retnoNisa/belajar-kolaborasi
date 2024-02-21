@@ -1,3 +1,3 @@
 # belajar-kolaborasi
 Kali ini aku akan belajar Squash Changes bersama Dicoding!!!<br>
-belajar bersama dicoding itu menyenangkan
+Belajar bersama dicoding itu menyenangkan
